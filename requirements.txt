@@ -139,7 +139,7 @@ pycountry
 
 # tests
 coverage==5.3
-parse-type==0.5.2
+parse-type==0.6.0
 requests-toolbelt==0.9.1
 flake8==3.8.4
 pytest==6.1.2
